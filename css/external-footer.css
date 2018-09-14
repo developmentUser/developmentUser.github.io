@@ -1,9 +1,14 @@
-footer .footer-bottom {
-  background-color: #F2F2F2;
-}
-
 footer {
   color: #000000;  
+}  
+  
+footer .footer-bottom {
+  background-color: #F2F2F2;
+  padding: 20px 0;
+}
+
+#footer_row {
+	padding: 20px 0;
 }
 
 footer h5 {
