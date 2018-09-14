@@ -2,6 +2,14 @@ footer .footer-bottom {
   background-color: #F2F2F2;
 }
 
+footer {
+  color: #000000;  
+}
+
+footer h5 {
+  color: #4F4F4F;
+}
+
 .cap-footer-img {
   height: 32px;
 }
