@@ -13,3 +13,7 @@ footer h5 {
 .cap-footer-img {
   height: 32px;
 }
+
+#copyright_container {
+  text-alignment: center;
+}
