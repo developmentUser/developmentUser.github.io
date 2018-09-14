@@ -11,6 +11,10 @@ footer .footer-bottom {
 	padding: 20px 0;
 }
 
+#footer_row p {
+	margin-bottom: 10px;
+}
+
 footer h5 {
   color: #4F4F4F;
 }
