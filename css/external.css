@@ -3,9 +3,11 @@ body {
   background-color:white;
 }
 
-#navbar{
-  margin-top:8px;
+#navbar {
+    margin-top: 8px;
+    font-size: 18px;
 }
+
 
 .navbar-brand {
     float: left;
