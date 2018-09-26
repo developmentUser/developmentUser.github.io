@@ -20,9 +20,10 @@ body {
 
 /* BEGIN Profile Contact Brembo Details */
 
-.form-control-cell .info {
+.form-control-cell .info label {
   font-family: "Roboto Condensed", sans-serif; 
   color: #9B9B9B;
+  font-weight: normal;
 }
 
 .form-control-cell .control .form-control, 
