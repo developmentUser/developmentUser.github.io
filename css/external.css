@@ -16,3 +16,12 @@ body {
     line-height: 21px;
     height: 65px;
 }
+
+
+/* BEGIN Profile Contact Brembo Details */
+
+.info {
+  background-color: red; 
+}
+
+/* END Profile Contact Brembo Details */
