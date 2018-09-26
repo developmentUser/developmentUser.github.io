@@ -20,8 +20,12 @@ body {
 
 /* BEGIN Profile Contact Brembo Details */
 
-.info {
-  background-color: red; 
+.form-control-cell .info {
+  font-family: "Muli", sans-serif; 
+}
+
+.form-control-cell .control {
+  font-family: "Muli", sans-serif; 
 }
 
 /* END Profile Contact Brembo Details */
