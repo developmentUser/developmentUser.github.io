@@ -25,9 +25,11 @@ body {
   color: #9B9B9B;
 }
 
-.form-control-cell .control .form-control {
+.form-control-cell .control .form-control, 
+.form-control-cell .control .control {
   font-family: "Muli", sans-serif; 
   font-size: 22px;
+  color: #FFFFFF;
 }
 
 /* END Profile Contact Brembo Details */
