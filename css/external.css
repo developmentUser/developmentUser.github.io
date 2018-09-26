@@ -22,10 +22,12 @@ body {
 
 .form-control-cell .info {
   font-family: "Roboto Condensed", sans-serif; 
+  color: #9B9B9B;
 }
 
-.form-control-cell .control {
+.form-control-cell .control .form-control {
   font-family: "Muli", sans-serif; 
+  font-size: 22px;
 }
 
 /* END Profile Contact Brembo Details */
