@@ -18,9 +18,11 @@ body {
 }
 
 
-/* BEGIN Profile Contact Brembo Details */
+/* BEGIN "Profile Contact Brembo Details" & "Account Profile"  */
 
-.form-control-cell .info label {
+.form-control-cell .info label /* for Profile... Details
+legend.section-title /* for Account Profile
+{
   font-family: "Roboto Condensed", sans-serif; 
   color: #9B9B9B;
   font-weight: normal;
