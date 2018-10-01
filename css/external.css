@@ -29,6 +29,11 @@ legend.section-title /* for Account Profile */
   font-weight: normal;
 }
 
+/* for Account Profile: Address title */ 
+.crmEntityFormView legend.section-title {
+    padding: 0 28px 20px;
+}
+
 .form-control-cell .control .form-control, 
 .form-control-cell .control .text-primary {
   font-family: "Muli", sans-serif; 
@@ -36,4 +41,4 @@ legend.section-title /* for Account Profile */
   color: #000000;
 }
 
-/* END Profile Contact Brembo Details */
+/* END "Profile Contact Brembo Details" & "Account Profile" */
