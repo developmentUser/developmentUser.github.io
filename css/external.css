@@ -31,7 +31,7 @@ legend.section-title /* for Account Profile */
 
 /* for Account Profile: Address title */ 
 .crmEntityFormView legend.section-title {
-    padding: 0 28px 20px;
+    padding: 0 28px;
 }
 
 .form-control-cell .control .form-control, 
