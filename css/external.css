@@ -42,3 +42,37 @@ legend.section-title /* for Account Profile */
 }
 
 /* END "Profile Contact Brembo Details" & "Account Profile" */
+
+/* BEGIN Footer  */
+
+footer {
+  color: #000000;  
+}  
+  
+footer .footer-bottom {
+  background-color: #F2F2F2;
+  padding: 20px 0;
+}
+
+#footer_row {
+	padding: 20px 0;
+}
+
+#footer_row p {
+	margin-bottom: 10px;
+}
+
+footer h5 {
+  color: #4F4F4F;
+}
+
+.cap-footer-img {
+  height: 32px;
+  margin-top: 30px;
+}
+
+#copyright_container {
+  text-align: center;
+}
+
+/* END Footer  */
