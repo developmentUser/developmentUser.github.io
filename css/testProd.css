@@ -1,4 +1,5 @@
-.notes > .note > .row > div.metadata,
-.notes > .note > .row > .content > div.text {
+.notes > .note > .row > .metadata,
+.notes > .note > .row > .content > .text,
+.notes > .note > .row > .content > .attachment > .img {
   display: none;
 }
