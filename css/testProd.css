@@ -1,3 +1,13 @@
+body {
+	font-family: "Muli", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+.navbar-static-top.navbar .menu-bar > .navbar-nav > li > a {
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+
 .notes > .note > .row > .metadata,
 .notes > .note > .row > .content > .text,
 .notes > .note > .row > .content > .attachment > .img {
