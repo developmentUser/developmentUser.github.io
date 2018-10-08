@@ -3,3 +3,8 @@
 .notes > .note > .row > .content > .attachment > .img {
   display: none;
 }
+
+
+.notes > .note > .row > .content.col-sm-9 {
+ width: 100%; 
+}
