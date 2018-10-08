@@ -1,3 +1,4 @@
-.notes > .note > .row > div.metadata {
+.notes > .note > .row > div.metadata,
+.notes > .note > .row > .content > div.text {
   display: none;
 }
