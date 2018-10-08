@@ -9,6 +9,6 @@
  width: 100%; 
 }
 
-.notes > .note > .row > .content > .link {
+.notes > .note > .row > .content > .link > a {
  color:  #000000;
 }
