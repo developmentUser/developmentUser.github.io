@@ -8,3 +8,7 @@
 .notes > .note > .row > .content.col-sm-9 {
  width: 100%; 
 }
+
+.notes > .note > .row > .content > .link {
+ color:  #000000;
+}
